@@ -1,4 +1,4 @@
->>> complex(4, 5)
+two three>>> complex(4, 5)
 (4+5j)
 
 >>> complex(6, 8)
@@ -15,3 +15,5 @@
 
 >>> complex(0, 4)
 4j
+
+one two three
